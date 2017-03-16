@@ -1,0 +1,7 @@
+D:\CRM\my learnings\exampleplugin\exampleplugin\bin\Debug\exampleplugin.dll
+D:\CRM\my learnings\exampleplugin\exampleplugin\bin\Debug\exampleplugin.pdb
+D:\CRM\my learnings\exampleplugin\exampleplugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CRM\my learnings\exampleplugin\exampleplugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\CRM\my learnings\exampleplugin\exampleplugin\obj\Debug\exampleplugin.csprojResolveAssemblyReference.cache
+D:\CRM\my learnings\exampleplugin\exampleplugin\obj\Debug\exampleplugin.dll
+D:\CRM\my learnings\exampleplugin\exampleplugin\obj\Debug\exampleplugin.pdb

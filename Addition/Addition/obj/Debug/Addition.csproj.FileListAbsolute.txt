@@ -1,0 +1,6 @@
+D:\CRM\my learnings\Addition\Addition\bin\Debug\Addition.exe.config
+D:\CRM\my learnings\Addition\Addition\bin\Debug\Addition.exe
+D:\CRM\my learnings\Addition\Addition\bin\Debug\Addition.pdb
+D:\CRM\my learnings\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
+D:\CRM\my learnings\Addition\Addition\obj\Debug\Addition.exe
+D:\CRM\my learnings\Addition\Addition\obj\Debug\Addition.pdb

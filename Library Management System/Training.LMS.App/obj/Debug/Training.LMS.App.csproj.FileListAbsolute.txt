@@ -1,0 +1,8 @@
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\bin\Debug\Library Management System.exe.config
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\bin\Debug\Library Management System.exe
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\bin\Debug\Library Management System.pdb
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\bin\Debug\Training.LMS.Core.dll
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\bin\Debug\Training.LMS.Core.pdb
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\obj\Debug\Training.LMS.App.csprojResolveAssemblyReference.cache
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\obj\Debug\Library Management System.exe
+D:\Nishitha\Study\Test Projects\Library Management System\Training.LMS.App\obj\Debug\Library Management System.pdb

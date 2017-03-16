@@ -1,0 +1,5 @@
+D:\CRM\my learnings\library Management\library Management\bin\Debug\library Management.exe
+D:\CRM\my learnings\library Management\library Management\bin\Debug\library Management.exe.config
+D:\CRM\my learnings\library Management\library Management\obj\Debug\library Management.exe
+D:\CRM\my learnings\library Management\library Management\obj\Debug\library Management.pdb
+D:\CRM\my learnings\library Management\library Management\bin\Debug\library Management.pdb
